@@ -7,6 +7,7 @@ import (
 	"github.com/nlopes/slack"
 )
 
+// TODO: add easy access for sending new message and start typing - instead of using rtm in integration
 type Slackbot struct {}
 
 func (s Slackbot) Start(router Router, slack_token string) {
