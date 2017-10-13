@@ -1,6 +1,6 @@
 # slackbot
 
-## Usage
+## Usage
 
 ``` go
 package main
